@@ -8,6 +8,9 @@
 | 2026-08-26 | Local Multimodal Hub | mudler/LocalAI | 用统一 API 把本地 LLM、TTS、声音克隆、图像和视频接给 Codex | P0 | VALIDATE |
 | 2026-08-26 | Document-to-Codex Pipeline | microsoft/markitdown | PDF/PPT/Word 批量转 Markdown，再生成目录、摘要和 Codex 输入包以降低 Token | P0 | VALIDATE |
 | 2026-08-26 | AI Video Factory | MoneyPrinterTurbo + ComfyUI + LocalAI | 组合脚本、图像/视频、声音克隆、字幕和 FFmpeg，形成本地短视频流水线 | P1 | IDEA |
+| 2026-08-27 | Codex Local Knowledge MCP | gmickel/gno | 建立本地资料索引并通过 MCP 暴露给 Codex，使项目文档、代码和笔记可低成本检索 | P0 | VALIDATE |
+| 2026-08-27 | Visual Document Preprocessor | magicrew/doc7 + markitdown | 普通 Office/PDF 先走 MarkItDown，复杂扫描件/图表/公式切到 doc7，形成分层文档预处理管线 | P0 | VALIDATE |
+| 2026-08-27 | Local Dubbing Workbench | LA-Studio + LocalAI/voice models | 把转录、翻译、声音克隆、配音和混音串成完全本地的视频翻译/配音流程 | P1 | IDEA |
 
 ## 优先级
 - P0：立即值得尝试
