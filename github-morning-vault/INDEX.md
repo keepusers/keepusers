@@ -15,6 +15,10 @@
 | 2026-08-27 | dduongtrandai/LA-Studio | Local Audio AI | 本地桌面端整合 STT、TTS、声音克隆、翻译和视频配音，适合作为声音工作流前端 | REVIEW | https://github.com/dduongtrandai/LA-Studio |
 | 2026-08-27 | lastmile-ai/mcp-agent | Agent / MCP | 活跃 MCP Agent 框架，近期仍在增加持久记忆、工具审批等能力，适合研究可控 Agent 编排 | REVIEW | https://github.com/lastmile-ai/mcp-agent |
 | 2026-08-27 | sebastienrousseau/draft | Research / Codex | 直接利用已登录的 Codex 等 coding-agent session 将研究 PDF 转为有依据的 Markdown 草稿 | REVIEW | https://github.com/sebastienrousseau/draft |
+| 2026-08-28 | shshalom/voicesmith-mcp | Audio / MCP / Codex | 完全本地 TTS+STT，明确支持 Codex，可低成本验证编码 Agent 语音交互 | TRY | https://github.com/shshalom/voicesmith-mcp |
+| 2026-08-28 | Leo0186/openchatcut | AI Video / Agent / MCP | local-first 多轨视频编辑器，让 Codex/Agent 直接编辑真实时间线工程 | TRY | https://github.com/Leo0186/openchatcut |
+| 2026-08-28 | h1papc11/voice-mcp-agent | Local Audio / Voice Cloning / MCP | 完整本地语音工作台，覆盖听写、声音克隆、多 TTS 与 Agent Voice | REVIEW | https://github.com/h1papc11/voice-mcp-agent |
+| 2026-08-28 | linjuhon/video20-ai-workbench | AI Video / ComfyUI | 20 段故事板+关键帧+ComfyUI 路由的可控视频工程架构，适合拆解复用 | REVIEW | https://github.com/linjuhon/video20-ai-workbench |
 
 ## 状态说明
 - `NEW`：刚发现，尚未深入
