@@ -11,6 +11,9 @@
 | 2026-08-27 | Codex Local Knowledge MCP | gmickel/gno | 建立本地资料索引并通过 MCP 暴露给 Codex，使项目文档、代码和笔记可低成本检索 | P0 | VALIDATE |
 | 2026-08-27 | Visual Document Preprocessor | magicrew/doc7 + markitdown | 普通 Office/PDF 先走 MarkItDown，复杂扫描件/图表/公式切到 doc7，形成分层文档预处理管线 | P0 | VALIDATE |
 | 2026-08-27 | Local Dubbing Workbench | LA-Studio + LocalAI/voice models | 把转录、翻译、声音克隆、配音和混音串成完全本地的视频翻译/配音流程 | P1 | IDEA |
+| 2026-08-28 | Voice-Enabled Codex | voicesmith-mcp + Codex | 给 Codex 增加本地语音输入与语音反馈，形成无需云语音 API 的开发交互模式 | P0 | VALIDATE |
+| 2026-08-28 | Agent-Native Video Editor | openchatcut + Codex + AI Video Factory | 让 Codex 接管可编辑多轨时间线，把已有脚本/素材生成流水线与真正的视频后期工程连接起来 | P0 | VALIDATE |
+| 2026-08-28 | Modular Voice Production Stack | voice-mcp-agent + LocalAI/LA-Studio | 对比并抽象 STT、TTS、克隆、MCP 四层接口，避免声音工作流绑定单一软件 | P1 | IDEA |
 
 ## 优先级
 - P0：立即值得尝试
