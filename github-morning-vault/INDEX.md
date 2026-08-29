@@ -19,6 +19,10 @@
 | 2026-08-28 | Leo0186/openchatcut | AI Video / Agent / MCP | local-first 多轨视频编辑器，让 Codex/Agent 直接编辑真实时间线工程 | TRY | https://github.com/Leo0186/openchatcut |
 | 2026-08-28 | h1papc11/voice-mcp-agent | Local Audio / Voice Cloning / MCP | 完整本地语音工作台，覆盖听写、声音克隆、多 TTS 与 Agent Voice | REVIEW | https://github.com/h1papc11/voice-mcp-agent |
 | 2026-08-28 | linjuhon/video20-ai-workbench | AI Video / ComfyUI | 20 段故事板+关键帧+ComfyUI 路由的可控视频工程架构，适合拆解复用 | REVIEW | https://github.com/linjuhon/video20-ai-workbench |
+| 2026-08-29 | aresyn/codex-control-plane-mcp | Codex / MCP / Automation | 为 Windows Codex Desktop 长任务提供持久异步队列、审批、恢复与诊断，直接解决长任务可靠性 | TRY | https://github.com/aresyn/codex-control-plane-mcp |
+| 2026-08-29 | calesthio/Resonant | AI Music / MCP / Windows | Windows 本地 AI 音乐工作站，支持生成、编曲、混音、WAV 导出并允许 Codex 经 MCP 操作工程 | TRY | https://github.com/calesthio/Resonant |
+| 2026-08-29 | aproto9787/heddle | Agent / Codex / MCP | 本地 Codex 多 Agent 控制平面，提供 YAML 团队、隔离 worker、浏览器 Studio 与可追踪委派 | REVIEW | https://github.com/aproto9787/heddle |
+| 2026-08-29 | amanning3390/flowstate-qmd | Agent Memory / MCP | 本地 Markdown 共享记忆层，支持 Codex/Claude/Cursor，并强调预取相关上下文与可解释检索 | REVIEW | https://github.com/amanning3390/flowstate-qmd |
 
 ## 状态说明
 - `NEW`：刚发现，尚未深入
