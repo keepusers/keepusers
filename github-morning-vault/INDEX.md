@@ -10,19 +10,23 @@
 | 2026-08-26 | apache/maka | Agent Workspace | local-first Agent 工作区，带执行记录、CLI/Desktop/Eval；Windows 仍需观察 | REVIEW | https://github.com/apache/maka |
 | 2026-08-26 | harry0703/MoneyPrinterTurbo | AI Video / Automation | 可拆解其脚本→素材→TTS→字幕→FFmpeg 的视频自动化流水线 | REVIEW | https://github.com/harry0703/MoneyPrinterTurbo |
 | 2026-08-26 | Comfy-Org/ComfyUI | Image/Video Workflow | 成熟节点式本地图像/视频生成平台，可与 Codex 自动化结合 | REVIEW | https://github.com/Comfy-Org/ComfyUI |
-| 2026-08-27 | gmickel/gno | Local Knowledge / MCP | 本地混合检索知识引擎，覆盖 PDF/Office/代码并提供 MCP，适合给编码 Agent 接个人资料库 | TRY | https://github.com/gmickel/gno |
-| 2026-08-27 | magicrew/doc7 | Document AI / Vision | 用本地 OpenAI-compatible 多模态模型把扫描件、图表和公式转成 AI-ready Markdown，补足纯文本转换盲区 | TRY | https://github.com/magicrew/doc7 |
-| 2026-08-27 | dduongtrandai/LA-Studio | Local Audio AI | 本地桌面端整合 STT、TTS、声音克隆、翻译和视频配音，适合作为声音工作流前端 | REVIEW | https://github.com/dduongtrandai/LA-Studio |
-| 2026-08-27 | lastmile-ai/mcp-agent | Agent / MCP | 活跃 MCP Agent 框架，近期仍在增加持久记忆、工具审批等能力，适合研究可控 Agent 编排 | REVIEW | https://github.com/lastmile-ai/mcp-agent |
-| 2026-08-27 | sebastienrousseau/draft | Research / Codex | 直接利用已登录的 Codex 等 coding-agent session 将研究 PDF 转为有依据的 Markdown 草稿 | REVIEW | https://github.com/sebastienrousseau/draft |
-| 2026-08-28 | shshalom/voicesmith-mcp | Audio / MCP / Codex | 完全本地 TTS+STT，明确支持 Codex，可低成本验证编码 Agent 语音交互 | TRY | https://github.com/shshalom/voicesmith-mcp |
-| 2026-08-28 | Leo0186/openchatcut | AI Video / Agent / MCP | local-first 多轨视频编辑器，让 Codex/Agent 直接编辑真实时间线工程 | TRY | https://github.com/Leo0186/openchatcut |
-| 2026-08-28 | h1papc11/voice-mcp-agent | Local Audio / Voice Cloning / MCP | 完整本地语音工作台，覆盖听写、声音克隆、多 TTS 与 Agent Voice | REVIEW | https://github.com/h1papc11/voice-mcp-agent |
-| 2026-08-28 | linjuhon/video20-ai-workbench | AI Video / ComfyUI | 20 段故事板+关键帧+ComfyUI 路由的可控视频工程架构，适合拆解复用 | REVIEW | https://github.com/linjuhon/video20-ai-workbench |
-| 2026-08-29 | aresyn/codex-control-plane-mcp | Codex / MCP / Automation | 为 Windows Codex Desktop 长任务提供持久异步队列、审批、恢复与诊断，直接解决长任务可靠性 | TRY | https://github.com/aresyn/codex-control-plane-mcp |
-| 2026-08-29 | calesthio/Resonant | AI Music / MCP / Windows | Windows 本地 AI 音乐工作站，支持生成、编曲、混音、WAV 导出并允许 Codex 经 MCP 操作工程 | TRY | https://github.com/calesthio/Resonant |
-| 2026-08-29 | aproto9787/heddle | Agent / Codex / MCP | 本地 Codex 多 Agent 控制平面，提供 YAML 团队、隔离 worker、浏览器 Studio 与可追踪委派 | REVIEW | https://github.com/aproto9787/heddle |
-| 2026-08-29 | amanning3390/flowstate-qmd | Agent Memory / MCP | 本地 Markdown 共享记忆层，支持 Codex/Claude/Cursor，并强调预取相关上下文与可解释检索 | REVIEW | https://github.com/amanning3390/flowstate-qmd |
+| 2026-08-27 | gmickel/gno | Local Knowledge / MCP | 本地混合检索知识引擎，覆盖 PDF/Office/代码并提供 MCP | TRY | https://github.com/gmickel/gno |
+| 2026-08-27 | magicrew/doc7 | Document AI / Vision | 本地多模态模型把扫描件、图表和公式转成 Markdown | TRY | https://github.com/magicrew/doc7 |
+| 2026-08-27 | dduongtrandai/LA-Studio | Local Audio AI | 本地整合 STT、TTS、声音克隆、翻译和视频配音 | REVIEW | https://github.com/dduongtrandai/LA-Studio |
+| 2026-08-27 | lastmile-ai/mcp-agent | Agent / MCP | 活跃 MCP Agent 框架，适合研究可控 Agent 编排 | REVIEW | https://github.com/lastmile-ai/mcp-agent |
+| 2026-08-27 | sebastienrousseau/draft | Research / Codex | 利用 coding-agent session 将研究 PDF 转为 Markdown 草稿 | REVIEW | https://github.com/sebastienrousseau/draft |
+| 2026-08-28 | shshalom/voicesmith-mcp | Audio / MCP / Codex | 完全本地 TTS+STT，支持 Codex | TRY | https://github.com/shshalom/voicesmith-mcp |
+| 2026-08-28 | Leo0186/openchatcut | AI Video / Agent / MCP | local-first 多轨视频编辑器，让 Agent 编辑时间线 | TRY | https://github.com/Leo0186/openchatcut |
+| 2026-08-28 | h1papc11/voice-mcp-agent | Local Audio / Voice Cloning / MCP | 本地语音工作台 | REVIEW | https://github.com/h1papc11/voice-mcp-agent |
+| 2026-08-28 | linjuhon/video20-ai-workbench | AI Video / ComfyUI | 故事板+关键帧+ComfyUI 的可控视频架构 | REVIEW | https://github.com/linjuhon/video20-ai-workbench |
+| 2026-08-29 | aresyn/codex-control-plane-mcp | Codex / MCP / Automation | 为 Codex Desktop 长任务提供持久队列、审批与恢复 | TRY | https://github.com/aresyn/codex-control-plane-mcp |
+| 2026-08-29 | calesthio/Resonant | AI Music / MCP / Windows | Windows 本地 AI 音乐工作站并允许 Codex 经 MCP 操作 | TRY | https://github.com/calesthio/Resonant |
+| 2026-08-29 | aproto9787/heddle | Agent / Codex / MCP | 本地 Codex 多 Agent 控制平面 | REVIEW | https://github.com/aproto9787/heddle |
+| 2026-08-29 | amanning3390/flowstate-qmd | Agent Memory / MCP | 本地 Markdown 共享记忆层 | REVIEW | https://github.com/amanning3390/flowstate-qmd |
+| 2026-08-30 | Get-Concord-AI/concord-mcp | Multi-Agent / MCP / Codex | 让 Codex 与其他编码 Agent 本地协调、共享决策和任务交接 | TRY | https://github.com/Get-Concord-AI/concord-mcp |
+| 2026-08-30 | smallthinkingmachines/video-context-mcp | Video / RAG / MCP | 将视频转成带时间戳的转录、关键帧、OCR 与语义检索上下文 | TRY | https://github.com/smallthinkingmachines/video-context-mcp |
+| 2026-08-30 | KyaniteLabs/kinocut | Video / MCP / FFmpeg | 本地优先的 Agent 视频后处理层，带预检和质量检查 | REVIEW | https://github.com/KyaniteLabs/kinocut |
+| 2026-08-30 | estebanstifli/LocalText2Voice | Audio / TTS / MCP | 本地长文本声音生产工作流，可由 Codex 等通过 MCP 自动化 | REVIEW | https://github.com/estebanstifli/LocalText2Voice |
 
 ## 状态说明
 - `NEW`：刚发现，尚未深入
