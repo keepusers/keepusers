@@ -27,6 +27,10 @@
 | 2026-08-30 | smallthinkingmachines/video-context-mcp | Video / RAG / MCP | 将视频转成带时间戳的转录、关键帧、OCR 与语义检索上下文 | TRY | https://github.com/smallthinkingmachines/video-context-mcp |
 | 2026-08-30 | KyaniteLabs/kinocut | Video / MCP / FFmpeg | 本地优先的 Agent 视频后处理层，带预检和质量检查 | REVIEW | https://github.com/KyaniteLabs/kinocut |
 | 2026-08-30 | estebanstifli/LocalText2Voice | Audio / TTS / MCP | 本地长文本声音生产工作流，可由 Codex 等通过 MCP 自动化 | REVIEW | https://github.com/estebanstifli/LocalText2Voice |
+| 2026-08-31 | charzhu/codepilot | Codex / Coding Agent | 基于 Codex CLI 扩展 GitHub Copilot 模型、MCP 发现、多 Agent 与可定制 TUI，适合比较上游 Codex 工作流 | REVIEW | https://github.com/charzhu/codepilot |
+| 2026-08-31 | kdpa-llc/local-skills-mcp | Skills / MCP / Context | 将本地 SKILL.md 以懒加载 MCP 暴露给多个 Agent，减少重复上下文与技能维护 | TRY | https://github.com/kdpa-llc/local-skills-mcp |
+| 2026-08-31 | halilibrahimyesirci/nexus-local-rag-mcp | Local RAG / MCP / Documents | 无云端、无 Docker 的 PDF/Markdown/TXT 本地语义+关键词检索，适合轻量知识库 | REVIEW | https://github.com/halilibrahimyesirci/nexus-local-rag-mcp |
+| 2026-08-31 | decibri/mcp-listen | Audio / STT / MCP | Windows/macOS/Linux 本地麦克风捕获+whisper.cpp，可给 MCP Agent 增加离线语音输入 | TRY | https://github.com/decibri/mcp-listen |
 
 ## 状态说明
 - `NEW`：刚发现，尚未深入
