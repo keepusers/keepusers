@@ -20,6 +20,9 @@
 | 2026-08-30 | Multi-Agent Coding Bus | concord-mcp + Codex | 让不同编码 Agent 通过统一协调层分工、共享决策并完成任务交接 | P0 | VALIDATE |
 | 2026-08-30 | Video RAG for Codex | video-context-mcp + local knowledge | 让 Codex 按时间戳检索教程、会议和素材视频，只提取需要的证据 | P0 | VALIDATE |
 | 2026-08-30 | Headless Video Post-Processor | kinocut + AI Video Factory | 用 MCP/CLI 统一承担批量裁剪、转码、字幕、质量检查和交付 | P1 | IDEA |
+| 2026-08-31 | Portable Agent Skill Library | local-skills-mcp + Codex/other agents | 把常用工作方法沉淀为 SKILL.md，一份技能库按需加载给不同 Agent，减少重复提示词和 Token | P0 | VALIDATE |
+| 2026-08-31 | Lightweight Offline Knowledge Sidecar | nexus-local-rag-mcp + MarkItDown | 为小型项目目录提供无 Docker 的本地 RAG；复杂格式先转 Markdown，再由轻量 MCP 检索 | P1 | IDEA |
+| 2026-08-31 | Push-to-Talk Agent Input | mcp-listen + Codex/MCP clients | 用本地麦克风+whisper.cpp 给 Agent 增加离线语音输入，与现有 TTS 项目组合成双向语音 | P0 | VALIDATE |
 
 ## 优先级
 - P0：立即值得尝试
