@@ -23,6 +23,9 @@
 | 2026-08-31 | Portable Agent Skill Library | local-skills-mcp + Codex/other agents | 把常用工作方法沉淀为 SKILL.md，一份技能库按需加载给不同 Agent，减少重复提示词和 Token | P0 | VALIDATE |
 | 2026-08-31 | Lightweight Offline Knowledge Sidecar | nexus-local-rag-mcp + MarkItDown | 为小型项目目录提供无 Docker 的本地 RAG；复杂格式先转 Markdown，再由轻量 MCP 检索 | P1 | IDEA |
 | 2026-08-31 | Push-to-Talk Agent Input | mcp-listen + Codex/MCP clients | 用本地麦克风+whisper.cpp 给 Agent 增加离线语音输入，与现有 TTS 项目组合成双向语音 | P0 | VALIDATE |
+| 2026-09-01 | MCP Context Router | ratel-local + local-skills-mcp + Codex | 多 MCP 工具改为按需检索和加载，降低上下文成本 | P0 | VALIDATE |
+| 2026-09-01 | Codex ComfyUI Control Plane | comfy-mcp + ComfyUI + Codex | 让 Codex 直接构建、运行和监控本地图像视频 workflow | P0 | VALIDATE |
+| 2026-09-01 | Media-to-Knowledge Router | hearsay + video-context-mcp + gno | 按媒体类型选择 Markdown 转写或保留视觉证据的 Video RAG，再统一进入知识层 | P1 | IDEA |
 
 ## 优先级
 - P0：立即值得尝试
