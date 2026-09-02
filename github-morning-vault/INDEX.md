@@ -27,14 +27,18 @@
 | 2026-08-30 | smallthinkingmachines/video-context-mcp | Video / RAG / MCP | 将视频转成带时间戳的转录、关键帧、OCR 与语义检索上下文 | TRY | https://github.com/smallthinkingmachines/video-context-mcp |
 | 2026-08-30 | KyaniteLabs/kinocut | Video / MCP / FFmpeg | 本地优先的 Agent 视频后处理层，带预检和质量检查 | REVIEW | https://github.com/KyaniteLabs/kinocut |
 | 2026-08-30 | estebanstifli/LocalText2Voice | Audio / TTS / MCP | 本地长文本声音生产工作流，可由 Codex 等通过 MCP 自动化 | REVIEW | https://github.com/estebanstifli/LocalText2Voice |
-| 2026-08-31 | charzhu/codepilot | Codex / Coding Agent | 基于 Codex CLI 扩展 GitHub Copilot 模型、MCP 发现、多 Agent 与可定制 TUI，适合比较上游 Codex 工作流 | REVIEW | https://github.com/charzhu/codepilot |
-| 2026-08-31 | kdpa-llc/local-skills-mcp | Skills / MCP / Context | 将本地 SKILL.md 以懒加载 MCP 暴露给多个 Agent，减少重复上下文与技能维护 | TRY | https://github.com/kdpa-llc/local-skills-mcp |
-| 2026-08-31 | halilibrahimyesirci/nexus-local-rag-mcp | Local RAG / MCP / Documents | 无云端、无 Docker 的 PDF/Markdown/TXT 本地语义+关键词检索，适合轻量知识库 | REVIEW | https://github.com/halilibrahimyesirci/nexus-local-rag-mcp |
-| 2026-08-31 | decibri/mcp-listen | Audio / STT / MCP | Windows/macOS/Linux 本地麦克风捕获+whisper.cpp，可给 MCP Agent 增加离线语音输入 | TRY | https://github.com/decibri/mcp-listen |
-| 2026-09-01 | ratel-ai/ratel-local | MCP Gateway / Context | 按需搜索和加载上游 MCP tools/skills，减少 Codex 工具 schema 上下文膨胀 | TRY | https://github.com/ratel-ai/ratel-local |
-| 2026-09-01 | Comfy-Org/comfy-mcp | ComfyUI / MCP / AI Video | 让 MCP Agent 直接运行、监控、检查并构建本地 ComfyUI workflow | TRY | https://github.com/Comfy-Org/comfy-mcp |
-| 2026-09-01 | thomaswitt/mcp-agents | Multi-Agent / Codex / MCP | 把 Codex/Claude/Gemini CLI 包装成 MCP 工具并提供隔离与后台任务机制 | REVIEW | https://github.com/thomaswitt/mcp-agents |
-| 2026-09-01 | mudassar531/hearsay | Audio/Video / Markdown / MCP | 将 YouTube、播客、本地媒体转成带时间戳的 LLM-ready Markdown | REVIEW | https://github.com/mudassar531/hearsay |
+| 2026-08-31 | charzhu/codepilot | Codex / Coding Agent | 基于 Codex CLI 扩展 GitHub Copilot 模型、MCP 发现、多 Agent 与可定制 TUI | REVIEW | https://github.com/charzhu/codepilot |
+| 2026-08-31 | kdpa-llc/local-skills-mcp | Skills / MCP / Context | 将本地 SKILL.md 以懒加载 MCP 暴露给多个 Agent，减少重复上下文 | TRY | https://github.com/kdpa-llc/local-skills-mcp |
+| 2026-08-31 | halilibrahimyesirci/nexus-local-rag-mcp | Local RAG / MCP / Documents | 无云端、无 Docker 的本地语义+关键词检索 | REVIEW | https://github.com/halilibrahimyesirci/nexus-local-rag-mcp |
+| 2026-08-31 | decibri/mcp-listen | Audio / STT / MCP | 本地麦克风捕获+whisper.cpp，给 MCP Agent 增加离线语音输入 | TRY | https://github.com/decibri/mcp-listen |
+| 2026-09-01 | ratel-ai/ratel-local | MCP Gateway / Context | 按需搜索和加载上游 MCP tools/skills，减少上下文膨胀 | TRY | https://github.com/ratel-ai/ratel-local |
+| 2026-09-01 | Comfy-Org/comfy-mcp | ComfyUI / MCP / AI Video | 让 MCP Agent 直接运行、监控并构建本地 ComfyUI workflow | TRY | https://github.com/Comfy-Org/comfy-mcp |
+| 2026-09-01 | thomaswitt/mcp-agents | Multi-Agent / Codex / MCP | 把 Codex/Claude/Gemini CLI 包装成 MCP 工具 | REVIEW | https://github.com/thomaswitt/mcp-agents |
+| 2026-09-01 | mudassar531/hearsay | Audio/Video / Markdown / MCP | 将媒体转成带时间戳的 LLM-ready Markdown | REVIEW | https://github.com/mudassar531/hearsay |
+| 2026-09-02 | xDarkzx/Reaper-MCP | Audio / REAPER / MCP | 让 MCP Agent 本地控制 REAPER，覆盖 MIDI、混音、母带和后期 QC | TRY | https://github.com/xDarkzx/Reaper-MCP |
+| 2026-09-02 | estrindavid/codex-code-video-toolkit | Codex / AI Video / Skills | 面向 Codex 的视频制作 Skills、模板与工具工作区，可直接验证 Agent 视频生产流程 | TRY | https://github.com/estrindavid/codex-code-video-toolkit |
+| 2026-09-02 | colbymchenry/codegraph | Code Knowledge / Codex | 100% 本地预索引代码知识图谱，自动同步代码变化以减少 Agent 搜索与 Token | REVIEW | https://github.com/colbymchenry/codegraph |
+| 2026-09-02 | affaan-m/ECC | Agent Harness / Skills / Codex | 跨 Codex/Claude/Cursor 的技能、记忆、安全和研究优先 Agent harness 优化体系 | REVIEW | https://github.com/affaan-m/ecc |
 
 ## 状态说明
 - `NEW`：刚发现，尚未深入
