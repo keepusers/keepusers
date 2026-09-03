@@ -39,6 +39,10 @@
 | 2026-09-02 | estrindavid/codex-code-video-toolkit | Codex / AI Video / Skills | 面向 Codex 的视频制作 Skills、模板与工具工作区，可直接验证 Agent 视频生产流程 | TRY | https://github.com/estrindavid/codex-code-video-toolkit |
 | 2026-09-02 | colbymchenry/codegraph | Code Knowledge / Codex | 100% 本地预索引代码知识图谱，自动同步代码变化以减少 Agent 搜索与 Token | REVIEW | https://github.com/colbymchenry/codegraph |
 | 2026-09-02 | affaan-m/ECC | Agent Harness / Skills / Codex | 跨 Codex/Claude/Cursor 的技能、记忆、安全和研究优先 Agent harness 优化体系 | REVIEW | https://github.com/affaan-m/ecc |
+| 2026-09-03 | github/github-mcp-server | GitHub / MCP / Codex | GitHub 官方 MCP Server，适合作为 Codex 仓库、Issue、PR 自动化的标准连接层 | TRY | https://github.com/github/github-mcp-server |
+| 2026-09-03 | Imbad0202/academic-research-skills-codex | Research / Codex / Skills | Codex 原生研究 Skills，覆盖综述、研究、论文和审稿流程 | TRY | https://github.com/Imbad0202/academic-research-skills-codex |
+| 2026-09-03 | Graphify-Labs/graphify | Code Knowledge / Graph / Skills | 本地确定性知识图谱，联合代码、文档、SQL、配置和 PDF | REVIEW | https://github.com/Graphify-Labs/graphify |
+| 2026-09-03 | farion1231/cc-switch | Codex / Agent Config / Desktop | 跨平台集中管理 Codex 等 Agent 的 Provider、MCP 和 Skills 配置 | REVIEW | https://github.com/farion1231/cc-switch |
 
 ## 状态说明
 - `NEW`：刚发现，尚未深入
