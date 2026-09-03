@@ -29,6 +29,9 @@
 | 2026-09-02 | Codex-to-REAPER Production Bridge | Reaper-MCP + Codex + RVC/voice stack | 让 Codex 直接承担 REAPER 工程中的轨道管理、FX、局部处理、混音和 QC，人工保留最终听感判断 | P0 | VALIDATE |
 | 2026-09-02 | Codex Native Video Workspace | codex-code-video-toolkit + ComfyUI/OpenChatCut | 用 Skills/模板把脚本、素材生成、配音、音乐和渲染组织成 Codex 原生视频项目目录 | P0 | VALIDATE |
 | 2026-09-02 | Token-Efficient Codebase Map | codegraph + Codex | 对大型代码库建立持续同步的本地代码图谱，优先返回结构关系再读取少量源码 | P1 | IDEA |
+| 2026-09-03 | Codex Research Workbench | academic-research-skills-codex + MarkItDown/doc7 + gno | 把资料预处理、本地检索、研究流程、来源核验和论文输出组织成 Codex 原生研究工作台 | P0 | VALIDATE |
+| 2026-09-03 | GitHub Automation Backbone | github-mcp-server + Codex + Morning Vault | 将仓库读取、Issue/PR 操作和晨报归档逐步统一到 GitHub 官方 MCP 接口 | P1 | IDEA |
+| 2026-09-03 | Code Graph Bake-off | graphify + codegraph | 用固定代码库建立索引速度、关系准确率、增量更新和 Token 消耗基准，选择单一长期图谱底座 | P1 | IDEA |
 
 ## 优先级
 - P0：立即值得尝试
