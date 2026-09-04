@@ -43,6 +43,10 @@
 | 2026-09-03 | Imbad0202/academic-research-skills-codex | Research / Codex / Skills | Codex 原生研究 Skills，覆盖综述、研究、论文和审稿流程 | TRY | https://github.com/Imbad0202/academic-research-skills-codex |
 | 2026-09-03 | Graphify-Labs/graphify | Code Knowledge / Graph / Skills | 本地确定性知识图谱，联合代码、文档、SQL、配置和 PDF | REVIEW | https://github.com/Graphify-Labs/graphify |
 | 2026-09-03 | farion1231/cc-switch | Codex / Agent Config / Desktop | 跨平台集中管理 Codex 等 Agent 的 Provider、MCP 和 Skills 配置 | REVIEW | https://github.com/farion1231/cc-switch |
+| 2026-09-04 | lakpriya1s/agent-rack | Multi-Agent / Codex / MCP | 将 Codex 等 CLI Agent 统一包装为可后台运行、可审查、可取消的 MCP 子 Agent | TRY | https://github.com/lakpriya1s/agent-rack |
+| 2026-09-04 | tsarihan/model-council-mcp-codex | Codex / Multi-Model / MCP | 让本地与云端模型组成委员会，对复杂问题做分歧分析与综合判断 | TRY | https://github.com/tsarihan/model-council-mcp-codex |
+| 2026-09-04 | Kirachon/context-engine | Context / Codex / MCP | 本地 workspace 索引、检索、规划与 Review 的统一 Context Engine | REVIEW | https://github.com/Kirachon/context-engine |
+| 2026-09-04 | CoreEpoch/mcp-soundfx | Audio / SFX / MCP | 本地 Stable Audio Open 音效生成层，可接 AI 视频和 REAPER 工作流 | REVIEW | https://github.com/CoreEpoch/mcp-soundfx |
 
 ## 状态说明
 - `NEW`：刚发现，尚未深入
