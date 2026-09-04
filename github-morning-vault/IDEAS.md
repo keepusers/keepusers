@@ -32,6 +32,9 @@
 | 2026-09-03 | Codex Research Workbench | academic-research-skills-codex + MarkItDown/doc7 + gno | 把资料预处理、本地检索、研究流程、来源核验和论文输出组织成 Codex 原生研究工作台 | P0 | VALIDATE |
 | 2026-09-03 | GitHub Automation Backbone | github-mcp-server + Codex + Morning Vault | 将仓库读取、Issue/PR 操作和晨报归档逐步统一到 GitHub 官方 MCP 接口 | P1 | IDEA |
 | 2026-09-03 | Code Graph Bake-off | graphify + codegraph | 用固定代码库建立索引速度、关系准确率、增量更新和 Token 消耗基准，选择单一长期图谱底座 | P1 | IDEA |
+| 2026-09-04 | Codex Agent Rack | agent-rack + Codex | Codex 做 leader，将实现、测试、审查分派给可后台运行和取消的 CLI 子 Agent | P0 | VALIDATE |
+| 2026-09-04 | Model Council Gate | model-council-mcp-codex + local/cloud models | 重要技术决策或研究结论先经过多模型独立判断、冲突显式化，再由 Codex 汇总 | P0 | VALIDATE |
+| 2026-09-04 | Generative SFX Layer | mcp-soundfx + Reaper-MCP/OpenChatCut | 给 AI Video Factory 增加本地 SFX 生成，再进入 REAPER/视频后期 | P1 | IDEA |
 
 ## 优先级
 - P0：立即值得尝试
