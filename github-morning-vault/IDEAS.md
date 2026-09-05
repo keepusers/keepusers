@@ -35,6 +35,9 @@
 | 2026-09-04 | Codex Agent Rack | agent-rack + Codex | Codex 做 leader，将实现、测试、审查分派给可后台运行和取消的 CLI 子 Agent | P0 | VALIDATE |
 | 2026-09-04 | Model Council Gate | model-council-mcp-codex + local/cloud models | 重要技术决策或研究结论先经过多模型独立判断、冲突显式化，再由 Codex 汇总 | P0 | VALIDATE |
 | 2026-09-04 | Generative SFX Layer | mcp-soundfx + Reaper-MCP/OpenChatCut | 给 AI Video Factory 增加本地 SFX 生成，再进入 REAPER/视频后期 | P1 | IDEA |
+| 2026-09-05 | Codex Browser QA Loop | ChromeDevTools/chrome-devtools-mcp + Codex | Codex 修改 Web 项目后自动基于 console、network、performance trace 做真实浏览器验证与回归修复 | P0 | VALIDATE |
+| 2026-09-05 | Agent Skill Governance Layer | agentic-awesome-skills + local-skills-mcp + Codex | 私有 Skill 与公共 catalog 分层管理，并用项目级 aas-stack.json 固化可审查的最小技能组合 | P1 | IDEA |
+| 2026-09-05 | Audio QC Intelligence Layer | audio-sonic-mcp + RVC + Reaper-MCP | 对原曲、转换人声和最终混音生成 sonic signature，用客观差异辅助 Codex 定位需要人工试听和修复的片段 | P1 | IDEA |
 
 ## 优先级
 - P0：立即值得尝试
