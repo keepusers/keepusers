@@ -47,6 +47,10 @@
 | 2026-09-04 | tsarihan/model-council-mcp-codex | Codex / Multi-Model / MCP | 让本地与云端模型组成委员会，对复杂问题做分歧分析与综合判断 | TRY | https://github.com/tsarihan/model-council-mcp-codex |
 | 2026-09-04 | Kirachon/context-engine | Context / Codex / MCP | 本地 workspace 索引、检索、规划与 Review 的统一 Context Engine | REVIEW | https://github.com/Kirachon/context-engine |
 | 2026-09-04 | CoreEpoch/mcp-soundfx | Audio / SFX / MCP | 本地 Stable Audio Open 音效生成层，可接 AI 视频和 REAPER 工作流 | REVIEW | https://github.com/CoreEpoch/mcp-soundfx |
+| 2026-09-05 | ChromeDevTools/chrome-devtools-mcp | Browser / Debug / MCP / Codex | Chrome DevTools 官方 MCP，让 Codex 基于真实浏览器证据完成调试、性能分析和回归验证 | TRY | https://github.com/ChromeDevTools/chrome-devtools-mcp |
+| 2026-09-05 | sickn33/agentic-awesome-skills | Skills / Codex / MCP | 本地 Skill 控制平面与 2100+ 技能目录，让 Codex 组合可审查的项目 Skill stack | TRY | https://github.com/sickn33/agentic-awesome-skills |
+| 2026-09-05 | nexu-io/open-design | Design / Codex / Local-first | 让 coding agent 生成原型、网页、Slides、图像和视频并导出真实文件 | REVIEW | https://github.com/nexu-io/open-design |
+| 2026-09-05 | ripunjay-kashyap/audio-sonic-mcp | Audio Analysis / MCP | 本地提取 BPM、调性、结构、CLAP 与制作特征，为 Agent 提供音频 QC 数据 | REVIEW | https://github.com/ripunjay-kashyap/audio-sonic-mcp |
 
 ## 状态说明
 - `NEW`：刚发现，尚未深入
