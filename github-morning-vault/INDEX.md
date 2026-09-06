@@ -51,6 +51,10 @@
 | 2026-09-05 | sickn33/agentic-awesome-skills | Skills / Codex / MCP | 本地 Skill 控制平面与 2100+ 技能目录，让 Codex 组合可审查的项目 Skill stack | TRY | https://github.com/sickn33/agentic-awesome-skills |
 | 2026-09-05 | nexu-io/open-design | Design / Codex / Local-first | 让 coding agent 生成原型、网页、Slides、图像和视频并导出真实文件 | REVIEW | https://github.com/nexu-io/open-design |
 | 2026-09-05 | ripunjay-kashyap/audio-sonic-mcp | Audio Analysis / MCP | 本地提取 BPM、调性、结构、CLAP 与制作特征，为 Agent 提供音频 QC 数据 | REVIEW | https://github.com/ripunjay-kashyap/audio-sonic-mcp |
+| 2026-09-06 | code-yeongyu/lazycodex | Codex / Agent Harness / Skills | 给 Codex 增加项目记忆、规划、持续执行与证据验证闭环，适合与裸 Codex 做基准测试 | TRY | https://github.com/code-yeongyu/lazycodex |
+| 2026-09-06 | Team-Volt/agent-lcm | Agent Memory / Codex / MCP | local-first 跨 Harness 会话记忆，以可重建事件归档保存真实 Agent 历史 | TRY | https://github.com/Team-Volt/agent-lcm |
+| 2026-09-06 | paperclipai/paperclip | Multi-Agent / Governance / Local | 用目标、预算、组织结构和治理统一管理多个 AI Agent，适合研究长期 Agent 控制平面 | REVIEW | https://github.com/paperclipai/paperclip |
+| 2026-09-06 | noobnooc/agent | Codex / Skills / Quality | 小型 Codex 工程纪律 Skills，适合拆解成私有 Debug 与交付质量门禁 | REVIEW | https://github.com/noobnooc/agent |
 
 ## 状态说明
 - `NEW`：刚发现，尚未深入
