@@ -55,6 +55,10 @@
 | 2026-09-06 | Team-Volt/agent-lcm | Agent Memory / Codex / MCP | local-first 跨 Harness 会话记忆，以可重建事件归档保存真实 Agent 历史 | TRY | https://github.com/Team-Volt/agent-lcm |
 | 2026-09-06 | paperclipai/paperclip | Multi-Agent / Governance / Local | 用目标、预算、组织结构和治理统一管理多个 AI Agent，适合研究长期 Agent 控制平面 | REVIEW | https://github.com/paperclipai/paperclip |
 | 2026-09-06 | noobnooc/agent | Codex / Skills / Quality | 小型 Codex 工程纪律 Skills，适合拆解成私有 Debug 与交付质量门禁 | REVIEW | https://github.com/noobnooc/agent |
+| 2026-09-07 | Yeachan-Heo/oh-my-codex | Codex / Agent Harness / Skills | Codex 原生工作流增强层，适合作为 LazyCodex 的直接 Harness 对照组 | TRY | https://github.com/Yeachan-Heo/oh-my-codex |
+| 2026-09-07 | mudler/LocalAGI | Local Agent / MCP / Self-hosted | 与 LocalAI 互补的本地 Agent Runtime，可消费 MCP 并将 Agent 管理能力反向暴露为 MCP | TRY | https://github.com/mudler/LocalAGI |
+| 2026-09-07 | joaquingit1/loqui | Meeting AI / STT / MCP | 本地会议转录、摘要和只读 MCP 会议记忆，适合沉淀可查询的工作会议历史 | REVIEW | https://github.com/joaquingit1/loqui |
+| 2026-09-07 | JuliusBrussee/caveman | Codex / Token Efficiency / Skill | 从输出侧压缩 coding agent 冗余，适合纳入 Token/完成质量 A/B 基准 | REVIEW | https://github.com/JuliusBrussee/caveman |
 
 ## 状态说明
 - `NEW`：刚发现，尚未深入
