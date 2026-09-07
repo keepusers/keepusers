@@ -41,6 +41,9 @@
 | 2026-09-06 | Codex Harness Bake-off | lazycodex + existing Codex harness tools | 用固定真实任务比较裸 Codex、LazyCodex 与模块化组合的计划质量、完成率、返工、验证证据和额度消耗，只保留有效 Harness | P0 | VALIDATE |
 | 2026-09-06 | Cross-Agent Session Memory | agent-lcm + ai-memory + gno | 将项目事实知识与 Agent 会话/决策历史分层存储，让 Codex 跨 Session、跨 Harness 按证据恢复上下文 | P0 | VALIDATE |
 | 2026-09-06 | Codex Quality Gate Skill | noobnooc/agent + local-skills-mcp | 抽取根因修复、范围控制、测试、secrets/env/deployment 检查，形成自己的任务完成前质量门禁 Skill | P1 | IDEA |
+| 2026-09-07 | Local Agent Runtime Stack | LocalAI + LocalAGI + MCP + Codex | LocalAI 负责本地模型/多模态推理，LocalAGI 负责 Agent 生命周期与 MCP 编排，Codex 作为高层开发与操作入口；先验证单 Agent 最小闭环 | P0 | VALIDATE |
+| 2026-09-07 | Meeting-to-Project Memory | Loqui + gno + Codex | 会议转录/摘要作为只读历史，确认后的 action item 与技术决策再进入项目知识库，分离口语记录与项目事实 | P1 | IDEA |
+| 2026-09-07 | Agent Efficiency Benchmark | Caveman + Ratel Local + Codex Harness Bake-off | 在 Harness 对比中加入输入/输出 Token、完成时间、返工次数与最终通过率，衡量单位有效成果成本 | P1 | IDEA |
 
 ## 优先级
 - P0：立即值得尝试
