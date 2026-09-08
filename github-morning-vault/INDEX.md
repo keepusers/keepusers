@@ -59,6 +59,10 @@
 | 2026-09-07 | mudler/LocalAGI | Local Agent / MCP / Self-hosted | 与 LocalAI 互补的本地 Agent Runtime，可消费 MCP 并将 Agent 管理能力反向暴露为 MCP | TRY | https://github.com/mudler/LocalAGI |
 | 2026-09-07 | joaquingit1/loqui | Meeting AI / STT / MCP | 本地会议转录、摘要和只读 MCP 会议记忆，适合沉淀可查询的工作会议历史 | REVIEW | https://github.com/joaquingit1/loqui |
 | 2026-09-07 | JuliusBrussee/caveman | Codex / Token Efficiency / Skill | 从输出侧压缩 coding agent 冗余，适合纳入 Token/完成质量 A/B 基准 | REVIEW | https://github.com/JuliusBrussee/caveman |
+| 2026-09-08 | oraios/serena | Coding / MCP / Semantic IDE | 基于语言服务器为 Codex 提供符号级检索与编辑，适合大型代码库语义操作 A/B | TRY | https://github.com/oraios/serena |
+| 2026-09-08 | kenn-io/agentsview | Agent Analytics / Codex / Local | local-first 汇总 Session、搜索、洞察与 Token 使用，为 Harness/效率基准提供观测层 | TRY | https://github.com/kenn-io/agentsview |
+| 2026-09-08 | vercel-labs/skills | Skills / Package Manager / Codex | 跨 Agent 的 Skill 发现、安装、使用、更新和删除 CLI，补齐 Skill 生命周期管理 | TRY | https://github.com/vercel-labs/skills |
+| 2026-09-08 | K-Dense-AI/scientific-agent-skills | Research / Skills / Codex | 材料科学、分子动力学和科学计算等研究 Skills，可补强 Codex Research Workbench | REVIEW | https://github.com/K-Dense-AI/scientific-agent-skills |
 
 ## 状态说明
 - `NEW`：刚发现，尚未深入
