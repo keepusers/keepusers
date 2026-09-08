@@ -44,6 +44,9 @@
 | 2026-09-07 | Local Agent Runtime Stack | LocalAI + LocalAGI + MCP + Codex | LocalAI 负责本地模型/多模态推理，LocalAGI 负责 Agent 生命周期与 MCP 编排，Codex 作为高层开发与操作入口；先验证单 Agent 最小闭环 | P0 | VALIDATE |
 | 2026-09-07 | Meeting-to-Project Memory | Loqui + gno + Codex | 会议转录/摘要作为只读历史，确认后的 action item 与技术决策再进入项目知识库，分离口语记录与项目事实 | P1 | IDEA |
 | 2026-09-07 | Agent Efficiency Benchmark | Caveman + Ratel Local + Codex Harness Bake-off | 在 Harness 对比中加入输入/输出 Token、完成时间、返工次数与最终通过率，衡量单位有效成果成本 | P1 | IDEA |
+| 2026-09-08 | Codex Observability Bench | AgentsView + Codex Harness Bake-off + Agent Efficiency Benchmark | 用统一 local-first 仪表盘记录 Session、Token、耗时、返工与通过率，让 Harness/Skill/MCP 取舍基于数据 | P0 | VALIDATE |
+| 2026-09-08 | Semantic Coding Layer Bake-off | Serena + codegraph + Graphify + Codex | 用固定代码任务区分符号级语义编辑与知识图谱/结构地图的真实增益，减少重复代码上下文工具 | P1 | IDEA |
+| 2026-09-08 | Skill Package Lifecycle | vercel-labs/skills + local-skills-mcp + AAS Core | 建立 Skill 发现、审查、安装、项目锁定、更新、回滚和淘汰流程，避免 Skill 无序堆积 | P1 | IDEA |
 
 ## 优先级
 - P0：立即值得尝试
