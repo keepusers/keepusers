@@ -47,6 +47,8 @@
 | 2026-09-08 | Codex Observability Bench | AgentsView + Codex Harness Bake-off + Agent Efficiency Benchmark | 用统一 local-first 仪表盘记录 Session、Token、耗时、返工与通过率，让 Harness/Skill/MCP 取舍基于数据 | P0 | VALIDATE |
 | 2026-09-08 | Semantic Coding Layer Bake-off | Serena + codegraph + Graphify + Codex | 用固定代码任务区分符号级语义编辑与知识图谱/结构地图的真实增益，减少重复代码上下文工具 | P1 | IDEA |
 | 2026-09-08 | Skill Package Lifecycle | vercel-labs/skills + local-skills-mcp + AAS Core | 建立 Skill 发现、审查、安装、项目锁定、更新、回滚和淘汰流程，避免 Skill 无序堆积 | P1 | IDEA |
+| 2026-09-09 | Deterministic Media Execution Layer | ffmpeg-skill + Codex + Reaper-MCP/OpenChatCut | 将生成式决策与确定性媒体执行分层，用固定 probe/edit/check/verify 流程承担裁剪、字幕、转码、响度、同步和交付 QA | P0 | VALIDATE |
+| 2026-09-09 | Agent File Governance Sandbox | Cairn + gno + MarkItDown + Codex | 在资料副本中验证 Agent 自动分类、标签、移动和导入，再将治理后的文件交给现有知识检索层 | P1 | IDEA |
 
 ## 优先级
 - P0：立即值得尝试
