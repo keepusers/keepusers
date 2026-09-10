@@ -49,6 +49,9 @@
 | 2026-09-08 | Skill Package Lifecycle | vercel-labs/skills + local-skills-mcp + AAS Core | 建立 Skill 发现、审查、安装、项目锁定、更新、回滚和淘汰流程，避免 Skill 无序堆积 | P1 | IDEA |
 | 2026-09-09 | Deterministic Media Execution Layer | ffmpeg-skill + Codex + Reaper-MCP/OpenChatCut | 将生成式决策与确定性媒体执行分层，用固定 probe/edit/check/verify 流程承担裁剪、字幕、转码、响度、同步和交付 QA | P0 | VALIDATE |
 | 2026-09-09 | Agent File Governance Sandbox | Cairn + gno + MarkItDown + Codex | 在资料副本中验证 Agent 自动分类、标签、移动和导入，再将治理后的文件交给现有知识检索层 | P1 | IDEA |
+| 2026-09-10 | Cross-Device Codex Node | Lociant + Codex + MCP | 将闲置 Android 变成低权限执行/感知节点，Codex 负责规划，设备只执行 allowlist 动作并返回证据 | P0 | VALIDATE |
+| 2026-09-10 | Skill Reproducibility Bake-off | CocoaSkills + vercel-labs/skills + private SKILL.md | 固定私有 Skills 比较锁版本、依赖、安全审计、更新、回滚与卸载，最终只保留一个包管理底座 | P1 | IDEA |
+| 2026-09-10 | Agent Experience Layer | accreted-intelligence + Agent LCM + gno | 将项目事实、会话历史和从任务 outcome 提炼的工作经验分层；只有能降低返工才保留经验层 | P1 | IDEA |
 
 ## 优先级
 - P0：立即值得尝试
