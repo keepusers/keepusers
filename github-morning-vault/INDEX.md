@@ -67,6 +67,10 @@
 | 2026-09-09 | luckyjackluo/cairn | File Management / MCP / Local | 给 Codex 增加本地文件整理、标签、Office/PDF 导入与检索能力 | REVIEW | https://github.com/luckyjackluo/cairn |
 | 2026-09-09 | kaael1/mcp-power-automate | Automation / MCP / Codex | 可预览、验证、保存、检查运行并回滚 Power Automate Flow，适合研究安全 Agent 自动化 | REVIEW | https://github.com/kaael1/mcp-power-automate |
 | 2026-09-09 | sc28249782/GPTkms | Knowledge / Memory / MCP / Codex | Markdown 项目/全局知识分层与 memory promotion 思路，可作为现有记忆架构参考 | NEW | https://github.com/sc28249782/GPTkms |
+| 2026-09-10 | lhxll07/Lociant | Local AI / Android / MCP | 把手机/边缘设备变成 Codex 可调用的本地执行与感知节点 | TRY | https://github.com/lhxll07/Lociant |
+| 2026-09-10 | ivanopcode/cocoaskills | Skills / Package Manager / Codex | 可复现 Skill 安装、依赖与安全审计，适合进入 Skill 生命周期方案淘汰赛 | REVIEW | https://github.com/ivanopcode/cocoaskills |
+| 2026-09-10 | maxbaluev/accreted-intelligence | Agent Memory / Work Model / MCP | 从真实任务 outcome 提炼跨 Agent 工作经验，适合验证第三层长期记忆 | REVIEW | https://github.com/maxbaluev/accreted-intelligence |
+| 2026-09-10 | Ya-KARAS/AgentControlPlane | Codex / Control Plane / MCP | Web AI 到本地 coding agent 的派发、证据与 continuation 协议，适合架构研究 | NEW | https://github.com/Ya-KARAS/AgentControlPlane |
 
 ## 状态说明
 - `NEW`：刚发现，尚未深入
