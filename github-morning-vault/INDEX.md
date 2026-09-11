@@ -71,6 +71,10 @@
 | 2026-09-10 | ivanopcode/cocoaskills | Skills / Package Manager / Codex | 可复现 Skill 安装、依赖与安全审计，适合进入 Skill 生命周期方案淘汰赛 | REVIEW | https://github.com/ivanopcode/cocoaskills |
 | 2026-09-10 | maxbaluev/accreted-intelligence | Agent Memory / Work Model / MCP | 从真实任务 outcome 提炼跨 Agent 工作经验，适合验证第三层长期记忆 | REVIEW | https://github.com/maxbaluev/accreted-intelligence |
 | 2026-09-10 | Ya-KARAS/AgentControlPlane | Codex / Control Plane / MCP | Web AI 到本地 coding agent 的派发、证据与 continuation 协议，适合架构研究 | NEW | https://github.com/Ya-KARAS/AgentControlPlane |
+| 2026-09-11 | Ericwong5021/better-codex | Codex / Task Management / Windows | Codex Desktop 内的 local-first 任务看板与 Agent 系统，适合验证复杂项目持续管理 | TRY | https://github.com/Ericwong5021/better-codex |
+| 2026-09-11 | tmchao7/local-vision-mcp | Local Vision / MCP / Codex | Ollama 本地视觉 sidecar，只向文本 Agent 返回结构化报告，适合 UI/截图 QA | REVIEW | https://github.com/tmchao7/local-vision-mcp |
+| 2026-09-11 | mclaut/ariadne | Agent Memory / Windows / MCP | 多语言、可审计的 Qdrant 本地记忆层，进入现有 Memory 方案淘汰赛 | REVIEW | https://github.com/mclaut/ariadne |
+| 2026-09-11 | kytianhong/codex3d | Blender / 3D / MCP / Codex | 结构化 allowlist、快照恢复和渲染验证的 3D Agent 执行架构 | REVIEW | https://github.com/kytianhong/codex3d |
 
 ## 状态说明
 - `NEW`：刚发现，尚未深入
