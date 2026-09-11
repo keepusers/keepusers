@@ -52,6 +52,8 @@
 | 2026-09-10 | Cross-Device Codex Node | Lociant + Codex + MCP | 将闲置 Android 变成低权限执行/感知节点，Codex 负责规划，设备只执行 allowlist 动作并返回证据 | P0 | VALIDATE |
 | 2026-09-10 | Skill Reproducibility Bake-off | CocoaSkills + vercel-labs/skills + private SKILL.md | 固定私有 Skills 比较锁版本、依赖、安全审计、更新、回滚与卸载，最终只保留一个包管理底座 | P1 | IDEA |
 | 2026-09-10 | Agent Experience Layer | accreted-intelligence + Agent LCM + gno | 将项目事实、会话历史和从任务 outcome 提炼的工作经验分层；只有能降低返工才保留经验层 | P1 | IDEA |
+| 2026-09-11 | Codex Task Operating Layer | better-codex + AgentsView + Codex Harness Bake-off | 用任务看板管理拆解/分派/状态，用 AgentsView 量化 Session/Token/耗时，并与不同 Harness 做统一项目基准 | P0 | VALIDATE |
+| 2026-09-11 | Local Visual QA Sidecar | local-vision-mcp + Chrome DevTools MCP + Codex | DevTools 检查 DOM/Console/Network 等确定性证据，本地视觉模型检查布局和 before/after，形成双层 UI 验收 | P1 | IDEA |
 
 ## 优先级
 - P0：立即值得尝试
