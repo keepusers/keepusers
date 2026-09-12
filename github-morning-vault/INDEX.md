@@ -75,6 +75,10 @@
 | 2026-09-11 | tmchao7/local-vision-mcp | Local Vision / MCP / Codex | Ollama 本地视觉 sidecar，只向文本 Agent 返回结构化报告，适合 UI/截图 QA | REVIEW | https://github.com/tmchao7/local-vision-mcp |
 | 2026-09-11 | mclaut/ariadne | Agent Memory / Windows / MCP | 多语言、可审计的 Qdrant 本地记忆层，进入现有 Memory 方案淘汰赛 | REVIEW | https://github.com/mclaut/ariadne |
 | 2026-09-11 | kytianhong/codex3d | Blender / 3D / MCP / Codex | 结构化 allowlist、快照恢复和渲染验证的 3D Agent 执行架构 | REVIEW | https://github.com/kytianhong/codex3d |
+| 2026-09-12 | korovin-aa97/talkthrough-mcp | Bug Evidence / Video / MCP / Codex | 将录屏转成转录、关键帧、OCR 和精确时间证据，补强 Codex 问题复现与调试输入 | TRY | https://github.com/korovin-aa97/talkthrough-mcp |
+| 2026-09-12 | MarcusTseng/mcp-whisper | Audio / STT / MCP / Local | 通用 local-first whisper.cpp MCP 服务，适合统一多个 Agent/媒体工作流的转写底座 | REVIEW | https://github.com/MarcusTseng/mcp-whisper |
+| 2026-09-12 | andreagrandi/mcp-wire | MCP / Config / Codex | 跨 Codex/Claude/OpenCode 的 MCP 安装与配置 TUI，适合治理日益增长的 MCP 配置 | REVIEW | https://github.com/andreagrandi/mcp-wire |
+| 2026-09-12 | LongNgn204/local-coding-agent | Local Workspace / MCP / Windows | 将本机工作区安全暴露给远端 Agent，适合研究远端 AI 到本地代码执行桥 | REVIEW | https://github.com/LongNgn204/local-coding-agent |
 
 ## 状态说明
 - `NEW`：刚发现，尚未深入
