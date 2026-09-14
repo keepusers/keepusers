@@ -38,7 +38,7 @@
 | 2026-09-02 | xDarkzx/Reaper-MCP | Audio / REAPER / MCP | 让 MCP Agent 本地控制 REAPER，覆盖 MIDI、混音、母带和后期 QC | TRY | https://github.com/xDarkzx/Reaper-MCP |
 | 2026-09-02 | estrindavid/codex-code-video-toolkit | Codex / AI Video / Skills | 面向 Codex 的视频制作 Skills、模板与工具工作区，可直接验证 Agent 视频生产流程 | TRY | https://github.com/estrindavid/codex-code-video-toolkit |
 | 2026-09-02 | colbymchenry/codegraph | Code Knowledge / Codex | 100% 本地预索引代码知识图谱，自动同步代码变化以减少 Agent 搜索与 Token | REVIEW | https://github.com/colbymchenry/codegraph |
-| 2026-09-02 | affaan-m/ECC | Agent Harness / Skills / Codex | 跨 Codex/Claude/Cursor 的技能、记忆、安全和研究优先 Agent harness 优化体系 | REVIEW | https://github.com/affaan-m/ecc |
+| 2026-09-02 | affaan-m/ECC | Agent Harness / Skills / Codex | 跨 Codex/Claude/Cursor 的技能、记忆、安全和研究优先 Agent harness 优化体系 | REVIEW | https://github.com/affaan-m/ECC |
 | 2026-09-03 | github/github-mcp-server | GitHub / MCP / Codex | GitHub 官方 MCP Server，适合作为 Codex 仓库、Issue、PR 自动化的标准连接层 | TRY | https://github.com/github/github-mcp-server |
 | 2026-09-03 | Imbad0202/academic-research-skills-codex | Research / Codex / Skills | Codex 原生研究 Skills，覆盖综述、研究、论文和审稿流程 | TRY | https://github.com/Imbad0202/academic-research-skills-codex |
 | 2026-09-03 | Graphify-Labs/graphify | Code Knowledge / Graph / Skills | 本地确定性知识图谱，联合代码、文档、SQL、配置和 PDF | REVIEW | https://github.com/Graphify-Labs/graphify |
@@ -79,6 +79,10 @@
 | 2026-09-12 | MarcusTseng/mcp-whisper | Audio / STT / MCP / Local | 通用 local-first whisper.cpp MCP 服务，适合统一多个 Agent/媒体工作流的转写底座 | REVIEW | https://github.com/MarcusTseng/mcp-whisper |
 | 2026-09-12 | andreagrandi/mcp-wire | MCP / Config / Codex | 跨 Codex/Claude/OpenCode 的 MCP 安装与配置 TUI，适合治理日益增长的 MCP 配置 | REVIEW | https://github.com/andreagrandi/mcp-wire |
 | 2026-09-12 | LongNgn204/local-coding-agent | Local Workspace / MCP / Windows | 将本机工作区安全暴露给远端 Agent，适合研究远端 AI 到本地代码执行桥 | REVIEW | https://github.com/LongNgn204/local-coding-agent |
+| 2026-09-14 | brunogcar/agent | Local Agent / MCP / LangGraph | 本地多角色 Agent Runtime，整合 LM Studio、ChromaDB、SearXNG、浏览器与 TDD 工作流 | TRY | https://github.com/brunogcar/agent |
+| 2026-09-14 | wewaa/videoclaw2 | AI Video / Agent / DAG | 用可版本控制的 YAML DAG 编排脚本、分镜、生成、配音、合成、渲染与发布 | TRY | https://github.com/wewaa/videoclaw2 |
+| 2026-09-14 | LudwigKienle/ai-video-production-editor | AI Video / Local-first / Desktop | 本地优先 AI 影视制作工作台，覆盖脚本到导出、研究图谱、素材库和 3D 预演 | REVIEW | https://github.com/LudwigKienle/ai-video-production-editor |
+| 2026-09-14 | JuanMaParraU/a2a-mcp-langgraph-agent-local | A2A / MCP / Ollama / LangGraph | 完全本地的多 Agent 协作示例，研究 A2A 消息与 MCP 工具组合 | REVIEW | https://github.com/JuanMaParraU/a2a-mcp-langgraph-agent-local |
 
 ## 状态说明
 - `NEW`：刚发现，尚未深入
