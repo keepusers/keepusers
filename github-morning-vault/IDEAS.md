@@ -44,7 +44,7 @@
 | 2026-09-07 | Local Agent Runtime Stack | LocalAI + LocalAGI + MCP + Codex | LocalAI 负责本地模型/多模态推理，LocalAGI 负责 Agent 生命周期与 MCP 编排，Codex 作为高层开发与操作入口；先验证单 Agent 最小闭环 | P0 | VALIDATE |
 | 2026-09-07 | Meeting-to-Project Memory | Loqui + gno + Codex | 会议转录/摘要作为只读历史，确认后的 action item 与技术决策再进入项目知识库，分离口语记录与项目事实 | P1 | IDEA |
 | 2026-09-07 | Agent Efficiency Benchmark | Caveman + Ratel Local + Codex Harness Bake-off | 在 Harness 对比中加入输入/输出 Token、完成时间、返工次数与最终通过率，衡量单位有效成果成本 | P1 | IDEA |
-| 2026-09-08 | Codex Observability Bench | AgentsView + Codex Harness Bake-off + Agent Efficiency Benchmark | 用统一 local-first 仪表盘记录 Session、Token、耗时、返工与通过率，让 Harness/Skill/MCP 取舍基于数据 | P0 | VALIDATE |
+| 2026-09-08 | Codex Observability Bench | AgentsView + Codex Harness Bake-off + Agent Efficiency Benchmark | 用统一 local-first 仪表盘记录 Session、Token、耗时、返工与通过率，让 Harness/效率取舍基于数据 | P0 | VALIDATE |
 | 2026-09-08 | Semantic Coding Layer Bake-off | Serena + codegraph + Graphify + Codex | 用固定代码任务区分符号级语义编辑与知识图谱/结构地图的真实增益，减少重复代码上下文工具 | P1 | IDEA |
 | 2026-09-08 | Skill Package Lifecycle | vercel-labs/skills + local-skills-mcp + AAS Core | 建立 Skill 发现、审查、安装、项目锁定、更新、回滚和淘汰流程，避免 Skill 无序堆积 | P1 | IDEA |
 | 2026-09-09 | Deterministic Media Execution Layer | ffmpeg-skill + Codex + Reaper-MCP/OpenChatCut | 将生成式决策与确定性媒体执行分层，用固定 probe/edit/check/verify 流程承担裁剪、字幕、转码、响度、同步和交付 QA | P0 | VALIDATE |
@@ -54,6 +54,9 @@
 | 2026-09-10 | Agent Experience Layer | accreted-intelligence + Agent LCM + gno | 将项目事实、会话历史和从任务 outcome 提炼的工作经验分层；只有能降低返工才保留经验层 | P1 | IDEA |
 | 2026-09-11 | Codex Task Operating Layer | better-codex + AgentsView + Codex Harness Bake-off | 用任务看板管理拆解/分派/状态，用 AgentsView 量化 Session/Token/耗时，并与不同 Harness 做统一项目基准 | P0 | VALIDATE |
 | 2026-09-11 | Local Visual QA Sidecar | local-vision-mcp + Chrome DevTools MCP + Codex | DevTools 检查 DOM/Console/Network 等确定性证据，本地视觉模型检查布局和 before/after，形成双层 UI 验收 | P1 | IDEA |
+| 2026-09-15 | Voice Alignment Checkpoint | blancmathis/voicecode-mcp + Codex + Agent LCM | 仅在需求澄清、重大决策、Bug 复现和最终验收时触发短语音回合，并将转录作为带任务标签的决策记录写入会话记忆 | P1 | IDEA |
+| 2026-09-15 | Knowledge-Grounded Video Factory | VidForge + videoclaw2 + ComfyUI + ffmpeg-skill + Reaper-MCP | 把产品知识、素材理解、脚本、生成、质量反馈和确定性后处理放入可观测、可重跑的视频生产流水线 | P0 | VALIDATE |
+| 2026-09-15 | Safe Local Knowledge Organizer | local-knowledge-mcp + Cairn + gno + MarkItDown | 先用默认拒绝和人工批准管理文件，再做索引、转换和检索，形成“治理层→预处理层→知识层”的本地资料架构 | P0 | VALIDATE |
 
 ## 优先级
 - P0：立即值得尝试
